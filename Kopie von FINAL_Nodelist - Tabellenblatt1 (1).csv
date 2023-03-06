@@ -1,3 +1,4 @@
+id,name,type,sort,ranking,points,gender,alive,genre
 300e,300 Entertainment,2,4,NA,NA,NA,NA,NA
 adas,Adassa,1,1,48,1860,1,1,10
 afte,Aftermath Entertainment,2,4,NA,NA,NA,NA,NA
@@ -88,7 +89,7 @@ evgl,Evgle,2,5,NA,NA,NA,NA,NA
 font,The Fontane Sisters,1,2,132,470,1,1,2
 fran,Frank Sinatra,1,1,157,348,2,9,2
 free,Freebandz,2,4,NA,NA,NA,NA,NA
-frid,Fridayy,1,1,151,370,2,4,1
+fr,Fridayy,1,1,151,370,2,4,1
 futu,Future,1,1,6,8288,2,1,4
 gayl,Gayle,1,1,50,1815,1,1,3
 geff,Geffen,2,4,NA,NA,NA,NA,NA
@@ -103,7 +104,6 @@ gunn,Gunna,1,2,20,3910,2,1,4
 hals,Halsey,1,1,147,587,1,1,1
 hard,Hardy,1,1,64,1481,2,1,8
 hitk,Hitkidd,1,8,127,679,2,1,4
-id,name,type,sort,ranking,points,gender,alive,genre
 imag,Imagine Dragons,1,2,31,2927,2,1,3
 ingr,Ingrid Andress,1,1,117,740,1,1,8
 inte,interscope Records,2,4,NA,NA,NA,NA,NA
